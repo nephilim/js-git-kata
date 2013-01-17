@@ -1,0 +1,26 @@
+{
+  "name": "js-git-kata",
+  "description": "Javascript and Git study materials",
+  "version": "0.0.1",
+  "author": "nephilim and children",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/nephilim/js-git-kata"
+  },
+  "main": "",
+  "bin": "",
+  "scripts": {
+    "test": "grunt test"
+  },
+  "engines": {
+    "node": ">= 0.6.0"
+  },
+  "dependencies": {
+    "jslint": "latest",
+    "grunt": "latest",
+    "grunt-jslint": "latest",
+    "grunt-casperjs": "latest"
+  },
+  "devDependencies": {
+  }
+}
