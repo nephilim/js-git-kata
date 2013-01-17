@@ -1,8 +1,6 @@
 js-git-kata
 ===========
 
-기매용
-
 Javascript and Git study materials
 
 ## 사전 준비 
