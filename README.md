@@ -6,7 +6,7 @@ Javascript and Git study materials
 ## 사전 준비 
 
 1. [js-git-kata](https://github.com/nephilim/js-git-kata)를 방문하여 오른쪽 상단의 fork를 누름
-	- fork 후 자신의 github 저장소에 js-git-kata가 복제됨
+    - fork 후 자신의 github 저장소에 js-git-kata가 복제됨
     - github에서의 `git clone` 과 유사한 작업임
 2. `git clone https://github.com/${자신의id}/js-git-kata.git`를 이용하여 로컬에 복사
     - fork 결과물을 **자신의 github 저장소로부터 로컬에 가져오는 작업**임
