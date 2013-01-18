@@ -6,8 +6,8 @@ Javascript and Git study materials
 ## 사전 준비 
 
 1. [js-git-kata](https://github.com/nephilim/js-git-kata)를 방문하여 오른쪽 상단의 fork를 누름
-    - fork 후 자신의 github 저장소에 js-git-kata가 복제됨
-    - github에서의 `git clone`과 유사한 작업임
+	- fork 후 자신의 github 저장소에 js-git-kata가 복제됨
+    - github에서의 `git clone` 과 유사한 작업임
 2. `git clone https://github.com/${자신의id}/js-git-kata.git`를 이용하여 로컬에 복사
     - fork 결과물을 **자신의 github 저장소로부터 로컬에 가져오는 작업**임
     - 참고로, 자신의 작업이 원래 github 저장소에 반영되기를 바랄 경우 pull request라는 과정을 거쳐야함
@@ -24,7 +24,7 @@ Javascript and Git study materials
 4. 참고: 3에서 master이외의 다른 브랜치에서 작업이 필요한 경우 
     - `git checkout -b ${브랜치명} ${원격브랜치명}`의 형태로 직접 **추적 브랜치**를 만들어 준다.
     - `git checkout -b env-setting remotes/origin/env-setting`
-
+5. wiki : [wiki바로가기](http://wiki.skplanet.co.kr/display/PSWDEV/Git+and+Javascript)
 ## 테스트 환경
 
 * casperjs 기반의 테스트 환경을 제공함
