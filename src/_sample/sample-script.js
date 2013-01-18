@@ -1,4 +1,5 @@
 var testfunc = function () {
-    return "test";
-};
+  "use strict";
 
+  return "test";
+};

@@ -25,6 +25,12 @@ Javascript and Git study materials
     - `git checkout -b ${브랜치명} ${원격브랜치명}`의 형태로 직접 **추적 브랜치**를 만들어 준다.
     - `git checkout -b env-setting remotes/origin/env-setting`
 5. wiki : [wiki바로가기](http://wiki.skplanet.co.kr/display/PSWDEV/Git+and+Javascript)
+
+## TODO
+
+* fork/pull-request 예제 추가
+* jslint 개발환경에 통합하기. (빌드(?) 시 linters 동작)
+
 ## 테스트 환경
 
 * casperjs 기반의 테스트 환경을 제공함
