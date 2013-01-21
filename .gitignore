@@ -14,11 +14,15 @@ node_modules
 *.gz
 *.bak
 *.class
+
+# vim-related
 *.swp
+tags
 
 pids
 logs
 results
+
 
 npm-debug.log
 dump.rdb
